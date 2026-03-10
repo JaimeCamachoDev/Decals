@@ -1,3 +1,5 @@
+![Decal_Video](https://github.com/user-attachments/assets/c4e86f74-e134-4b7f-9791-22ebd9b2fb76)
+
 # Decals
 
 Proyecto de **sistema de decals en Unity 6 (URP)**, pensado como base clara y reutilizable para impactos, suciedad, señales y detalles visuales sobre superficies.
