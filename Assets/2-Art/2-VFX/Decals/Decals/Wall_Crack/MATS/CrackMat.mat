@@ -50,7 +50,7 @@ Material:
     m_Ints: []
     m_Floats:
     - _Alpha_Size: 0.025
-    - _Crack_Progress: 0.995
+    - _Crack_Progress: 0
     - _DecalMeshBiasType: 0
     - _DecalMeshDepthBias: 0
     - _DecalMeshViewBias: 0
