@@ -88,3 +88,28 @@ Este proyecto se distribuye bajo licencia **MIT**. Revisa el archivo [LICENSE](.
 ---
 
 Si quieres, puedo convertir este README en una versión enfocada a **usuarios finales** (uso rápido) o en otra orientada a **desarrolladores del paquete** (arquitectura + API + roadmap).
+
+## Requisitos
+
+* Unity **6000.3.10f1**
+* Render Pipeline: Universal Render Pipeline (URP)
+* Paquetes: Visual Effect Graph
+* Assets de terceros incluidos (no redistribuibles): AmplifyShaderEditor
+
+## Contenido
+
+Efectos en `Assets/2-Art/2-VFX/`:
+
+| Efecto | VFX | Shader Graph | Shaders | Scripts | Prefabs | Materiales |
+|---|---|---|---|---|---|---|
+| **Crack** | — | — | — | — | — | 1 |
+| **Decals** | 2 | 9 | 3 | — | 28 | 40 |
+| **Insects** | — | — | 1 | — | — | — |
+
+**Escenas de demostración:** `Assets/3-Scenes/ImpactsDecal.unity`, `Assets/3-Scenes/Main.unity`
+
+## Uso
+
+1. Clona el repositorio y añádelo en Unity Hub (*Add project from disk*).
+2. Ábrelo con Unity **6000.3.10f1**.
+3. Abre la escena `Assets/3-Scenes/ImpactsDecal.unity` y pulsa **Play**.
