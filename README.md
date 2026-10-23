@@ -4,8 +4,6 @@
 
 Proyecto de **sistema de decals en Unity 6 (URP)**, pensado como base clara y reutilizable para impactos, suciedad, señales y detalles visuales sobre superficies.
 
-![Banner](https://github.com/user-attachments/assets/5b933a56-0ece-452a-99c0-1a641485a6b9)
-
 ## ✨ ¿Qué ofrece este repositorio?
 
 - Escena(s) de ejemplo para experimentar con decals en un entorno real.
